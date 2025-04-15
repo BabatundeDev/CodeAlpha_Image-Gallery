@@ -14,7 +14,7 @@ This project is a responsive and interactive image gallery built as part of **Ta
 
 ## 📸 Screenshot
 
-![Gallery Preview]( ![Screenshot png](https://github.com/user-attachments/assets/88fad697-023b-4914-afd1-dfe7b985ca44)
+![Gallery Preview]( ![Screenshot](https://github.com/user-attachments/assets/57899616-6d6c-46b3-8649-d501d0fb5ce7)
 ) 
 
 ## 🛠️ Built With

@@ -24,7 +24,7 @@ This project is a responsive and interactive image gallery built as part of **Ta
 - JavaScript (for lightbox, navigation & interactivity)
 
 ## 📁 Folder Structure
-
+```bash
 task-1-image-gallery/
 ├── index.html          # Main HTML file
 ├── style.css           # Custom styles for the gallery

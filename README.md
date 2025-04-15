@@ -34,4 +34,4 @@ task-1-image-gallery/
     ├── image2.jpg      # Second image in the gallery
     └── ...             # Additional images
 
-Made with 💻 💙 by **Ishau Babatunde (Tunde)**
+Made with 💻 💙 by Ishau Babatunde (Tunde)
